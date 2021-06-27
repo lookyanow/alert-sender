@@ -1,0 +1,10 @@
+[
+  {
+      "name":"default",
+      "phones":[ "79197XXXXXX", "7913XXXXXX"]
+  },
+  {
+      "name":"ivanlook",
+      "phones":["79197XXXXXX"]
+  }
+]
